@@ -1,0 +1,147 @@
+        .link-button {
+            text-decoration: none;
+            background-image: linear-gradient(orange, tomato);
+            padding: 10px 40px;
+            color: white;
+            font-weight: 900;
+            border-radius: 5%;
+
+
+
+        }
+
+        body {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            background-color: ivory;
+        }
+
+        .banner-area {
+            width: 100%;
+            height: 100vh;
+            background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url("donate-today-main/images/donation12.png");
+            background-repeat: no-repeat;
+            box-sizing: border-box;
+            background-size: cover;
+
+
+        }
+
+        .content-area {
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font-size: larger;
+
+
+        }
+
+        .content {
+            text-align: center;
+        }
+
+        .content h1 {
+            font-size: 50px;
+            color: white;
+        }
+
+        .content p {
+            font-size: 20px;
+            color: white;
+        }
+
+
+
+        .container {
+            width: 70%;
+            margin: 50px auto;
+            padding: 10px;
+        }
+
+        .container .box {
+            width: 100%;
+            padding: 50px;
+            background: #fff;
+            margin-top: 50px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px -3px rgba(0, 0, 0, 0.1);
+
+        }
+
+
+        .flexible-container {
+            display: flex;
+            margin-bottom: 100px;
+
+
+
+
+
+        }
+
+        .half-width1 {
+            width: 40%;
+            padding-left: 00px;
+
+
+        }
+
+        .half-width2 {
+            width: 40%;
+            padding-left: 5%;
+            padding-right: 3%;
+
+
+
+
+        }
+
+        .padding {
+
+            padding-bottom: 50px;
+            padding-left: 20px;
+        }
+
+        .top-banner p {
+            padding-right: 100px;
+
+        }
+
+
+        .experience-area {
+
+            background-image: url(images/exp-bg.png);
+            background-repeat: no-repeat;
+            background-position: left;
+
+        }
+
+        .donate-plan-item {
+            width: 50%;
+
+            margin-left: 5%;
+            margin-right: 5%;
+            padding-left: 10px;
+            box-shadow: 10px 10px 20px gray;
+            border-radius: 2px;
+            background-color: rgba(13, 132, 211, 0.11);
+
+
+        }
+
+        footer {
+
+            padding-bottom: 60PX;
+            text-align: center;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: black;
+            color: aliceblue;
+
+        }
+
+        .update {
+            padding-top: 80px;
+            padding-bottom: 50px;
+            background-color: bisque;
+        }
