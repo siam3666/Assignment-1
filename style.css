@@ -37,6 +37,8 @@
 
         }
 
+
+
         .content {
             text-align: center;
         }
@@ -109,7 +111,7 @@
         }
 
 
-        .experience-area {
+        .donate-plan-area {
 
             background-image: url(images/exp-bg.png);
             background-repeat: no-repeat;
@@ -144,4 +146,9 @@
             padding-top: 80px;
             padding-bottom: 50px;
             background-color: bisque;
+        }
+
+        .donate-today {
+            padding-bottom: 70px;
+
         }
